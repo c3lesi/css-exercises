@@ -1,0 +1,20 @@
+p {
+    background-color: rgb(213, 112, 112);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    
+}
+
+#divzwei {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#pzwei {
+    font-size: 24px;
+}
+
+#divvier {
+    background-color: rgb(116, 225, 147);
+    font-size: 24px;
+    font-weight: bold;
+}
